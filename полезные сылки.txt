@@ -1,0 +1,3 @@
+timeweb.com - проверить доменное имя
+https://htmlacademy.ru/tutorial/php - учебник по PHP
+https://html5.validator.nu/ - валидатор

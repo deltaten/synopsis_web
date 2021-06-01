@@ -1,0 +1,5 @@
+добавить в settings.json
+
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
