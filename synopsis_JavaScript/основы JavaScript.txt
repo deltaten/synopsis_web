@@ -79,3 +79,4 @@ let newElement = document.createElement('div');
 let parent = document.querySelector('.parent');
 // Добавляем новый элемент на страницу
 parent.append(newElement);
+----------------------------------------------------------------------------------------------
